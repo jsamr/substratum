@@ -39,7 +39,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "substratum",
+  "name": "@jsamr/substratum",
   "author": "Jules Sam. Randolph",
   "module": "dist/substratum.esm.js",
   "size-limit": [
