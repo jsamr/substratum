@@ -5,5 +5,8 @@
   "main": "index.js",
   "author": "Jules Sam. Randolph <jules.sam.randolph@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
 }
